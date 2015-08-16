@@ -1,0 +1,20 @@
+# Site config
+title: sky
+description: 个人博客
+keywords: C++, Python, Compiler, EDA
+url: http://xiaotianhust.github.io/
+feed: /atom.xml
+favicon: /images/shortcut.jpg
+
+#Nav config
+nav:
+  - text: 首页
+    url: /index.html
+  - text: 文章分类  
+    url: /categories.html
+  - text: 文章归档
+    url: /archives.html
+  - text: 关于我
+    url: /about.html
+  - text: 友情链接
+    url: /links.html
